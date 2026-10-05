@@ -1,3 +1,4 @@
+# aqui confirmar seguinte dúvida:ele nao faz aqui o screening, pq la pediu so extrair os scaffolds e montar a hierarquia, mas nao esta fazendo screening,pq o scrrening seria comparar os scaffolds com algo, certo?
 from rdkit import Chem
 from rdkit.Chem.Scaffolds import MurckoScaffold
 import scaffoldgraph as sg
